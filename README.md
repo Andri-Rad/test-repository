@@ -1,2 +1,3 @@
-# test-repository
-This is a second example
+# My Very First Repo
+
+This is me learning about git and github
